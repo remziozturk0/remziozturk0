@@ -11,7 +11,7 @@ I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<p align="center"><a href="https://developer.android.com" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/index.php" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
