@@ -21,7 +21,7 @@ I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi 
 <a href="https://atom.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="atom" width="40" height="40"/> </a> 
 <a href="https://angular.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> 
 </a> 
-<a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!340872550298!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE:G:s&s_kwcid=AL!3085!3!340872550298!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/tr/products/photoshop.html?skwcid=AL!3085!3!340872550298!e!!g!!photoshop&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE:G:s&s_kwcid=AL!3085!3!340872550298!e!!g!!photoshop!1448694214!55308397806&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMHCejlh4kcvGyRaqwmYgwmyqWYGyGODR9EsBJ2fV6kRhO7a4nJwwwxoC0B0QAvD_BwE" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
 <a href="https://www.adobe.com/tr/products/aftereffects.html?skwcid=AL!3085!3!340820991279!e!!g!!after%20effects&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAiAvaGRBhBlEiwAiY-yMC0YymFkeB_biqX0G_6BBrJ0583ppltM0P_SMYmJxkaA6dHNeOSrIhoCUYgQAvD_BwE:G:s&s_kwcid=AL!3085!3!340820991279!e!!g!!after%20effects!1448694139!55308614566&gclid=CjwKCAiAvaGRBhBlEiwAiY-yMC0YymFkeB_biqX0G_6BBrJ0583ppltM0P_SMYmJxkaA6dHNeOSrIhoCUYgQAvD_BwE" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffects" width="40" height="40"/> 
 </a> 
@@ -29,7 +29,7 @@ I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi 
 <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="40" height="40"/> 
 </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> 
+
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
