@@ -1,6 +1,6 @@
 ### Hi👋, Welcome To My Github Profile
 
-I'm Remzi, I've been in software for about five years. I love improving myself and constantly researching something. I learn from my mistakes. I can never rest until I finish the job at hand. I am also interested in graphic design & video editing as a hobby. I'm open to learning. 😛
+I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi geliştirmeyi ve sürekli bir şeyler araştırmayı çok seviyorum. Hatalarımdan sürekli ders çıkararak daha iyisini yapma konusunda gerçekten inatçıyımdır. Elimde ki işi bitirmeden asla rahat edemem. Aynı zamanda grafik tasarım ile de hobi olarak ilgileniyorum.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
@@ -12,19 +12,19 @@ I'm Remzi, I've been in software for about five years. I love improving myself a
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="atom" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/after-effects-cc.svg" alt="aftereffects" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/premiere-cc.svg" alt="premiere" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" alt="webstorm" width="40" height="40"/> </a> <a href="#" target="_blank"> 
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visualstudio" width="40" height="40"/> </a> <a href="#" target="_blank"> 
 
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
