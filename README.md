@@ -1,6 +1,6 @@
 ### Hi👋, Welcome To My Github Profile
 
-I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi geliştirmeyi ve sürekli bir şeyler araştırmayı çok seviyorum. Hatalarımdan sürekli ders çıkararak daha iyisini yapma konusunda gerçekten inatçıyımdır. Elimde ki işi bitirmeden asla rahat edemem. Aynı zamanda grafik tasarım ile de hobi olarak ilgileniyorum.
+I'm Remzi, I have been in the software world for about five years. I love improving myself and constantly researching something. I learn from my mistakes. I can never rest until I finish the job at hand. I am also interested in graphic design and editing as a hobby. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
