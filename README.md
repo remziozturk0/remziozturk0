@@ -1,6 +1,7 @@
 ### Hi👋, Welcome To My Github Profile
 
-I'm Remzi, I have been in the software world for about five years. I love improving myself and constantly researching something. I learn from my mistakes. I can never rest until I finish the job at hand. I am also interested in graphic design and editing as a hobby. 
+I'm Remzi, I've been in the software world for about five years. I like to improve myself and constantly researching something. I'm learning from my mistakes. I can never rest until I have finished the work at hand. I am also interested in graphic design and editing as a hobby.
+I am an active community manager. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
