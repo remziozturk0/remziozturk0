@@ -5,7 +5,7 @@ I am an active community manager.
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=remziozturk0&color=green" alt="remziozturk :: Profile Stats"></a>
+<img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="remziozturk :: Profile Stats"></a>
 <a href="mailto:remziramseyozturk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-remziramseyozturk@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/remzi-%C3%B6zt%C3%BCrk-2454b9226/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@remziozturk-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/remzi.ozt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-remzi.ozt-black?style=flat-square&logo=instagram"></a>
